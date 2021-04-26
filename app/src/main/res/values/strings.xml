@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">JavaProg</string>
+    <string name="share_app">Share App</string>
+    <string name="todo20">shareimage</string>
+    <string name="exit">Exit</string>
+    <string name="about_app">About App</string>
+    <string name="programs">Programs</string>
+    <string name="theory">Theory</string>
+    <string name="ready_to_learn">Ready To Learn</string>
+    <string name="java_programming">Java Programming</string>
+    <string name="todo">icon</string>
+    <string name="types_of_computer_languages2">Types Of Computer Languages</string>
+    <string name="introduction_to_java2">Introduction To Java</string>
+    <string name="variables">Variables In Java</string>
+    <string name="greatest_out_of_two_numbers_using_ternary_operators">Greatest Out Of Two Numbers Using Ternary Operators</string>
+    <string name="sum_and_average">Sum And Average</string>
+    <string name="sum_and_average_of_twi_input_numbers">Sum And Average Of Two Input Numbers</string>
+    <string name="todo18">sumimage</string>
+    <string name="quotient_and_remainder_of_two_numbers">Quotient And Remainder Of Two Input Numbers</string>
+    <string name="todo21">quotientimage</string>
+    <string name="the_denomination_of_the_indian_currency">The Denomination Of The Indian Currency</string>
+    <string name="greatest_out_of_two_numbers">Greatest Out Of Two Numbers</string>
+    <string name="if_without_else">If Without Else</string>
+    <string name="execute_multiple_statement_with_if_and_else">Execute Multiple Statement With If And Else</string>
+    <string name="greatest_out_of_three_numbers_using_ternary_operators">Greatest Out Of Three Numbers Using Ternary Operators</string>
+    <string name="greatest_out_of_five_numbers_using_ternary_operators">Greatest Out Of Five Numbers Using Ternary Operators</string>
+    <string name="greatest_out_of_three_input_numbers_using_if_else_if_ladder">Greatest Out Of Three Input Numbers Using If Else If Ladder</string>
+    <string name="biggest_out_of_five_numbers_using_if_condition">Biggest Out Of Five Numbers Using If Conditions</string>
+    <string name="traingle_is_possible_or_not">Traingle Is Possible Or Not</string>
+    <string name="input_year_is_leap_year_or_not">Input Year Is Leap Year Or Not</string>
+    <string name="print_the_total_percentage_and_grades_of_five_sybjects">Print The Total Percentage And Grades Of Five Students</string>
+    <string name="calculate_the_electricity_bill">Calculate The Electricity Bill</string>
+    <string name="secondimage">secondimage</string>
+    <string name="object_oriented_programming">Object Oriented Programming</string>
+    <string name="data_types_in_java">Data Types In Java</string>
+    <string name="keywords_reserved_words">Keywords/Reserved Words</string>
+    <string name="variables_identifiers">Variables/Identifiers</string>
+    <string name="punctuators_seperators">Punctuators/Separators</string>
+    <string name="literals_consonants">Literals/Consonants</string>
+    <string name="operators">Operators</string>
+    <string name="expressions_in_java">Expressions In Java</string>
+    <string name="inbuilt_library_functions">Inbuilt/Library Functions</string>
+    <string name="user_defined_functions">User-Defined Functions</string>
+    <string name="functions_in_java">Functions In Java</string>
+    <string name="scanner_class_in_java">Scanner Class In Java</string>
+    <string name="user_defined_function_add">User-Defined Function add()</string>
+    <string name="user_defined_function_add_int_int">User-Defined Function add(int,int)</string>
+    <string name="sum_of_two_input_numbers_using_scanner_class">Sum Of Two Input Numbers Using Scanner Class</string>
+    <string name="leap_year">Leap Year</string>
+    <string name="the_corresponding_day_of_the_week">The Corresponding Day Of The Week</string>
+    <string name="input_a_number_and_print_in_the_form_of_a_number">Input A Number And Print In The Form Of A Number</string>
+    <string name="sum_of_n_odd_and_even_values">Sum Of N Odd And Even Values</string>
+    <string name="_1_2_3_4_n_terms">1+2+3+4+ - - - - -- n terms</string>
+    <string name="_1x2x3x4_n_terms">1x2x3x4+ - - - - -- n terms</string>
+    <string name="_2_5_10_17_26_n_terms">2 5 10 17 26 - -- - n terms</string>
+    <string name="_1_3_7_13_21_n_terms">1 3 7 13 21 - -- - n terms</string>
+    <string name="_1_3_3_7_5_11_7_15_n_terms">1/3 + 3/7 + 5/11 + 7/15 + - - - - -- n terms</string>
+    <string name="_1_3_2_5_3_7_4_9_n_terms">1/3 + 2/5 + 3/7 + 4/9 + - - - - -- n terms</string>
+    <string name="_1_2_2_3_3_4_4_5_n_terms">1/2 + 2/3 + 3/4 + 4/5 + - - - - -- n terms</string>
+    <string name="while_loop">While Loop</string>
+    <string name="do_while_loop">Do-While Loop</string>
+    <string name="for_loop">Loops In Java</string>
+    <string name="this_app_helps_to_understand_learn_and_to_solve_java_programs_patterns_programs_it_contains_topic_wise_core_java_and_its_programs_this_app_has_a_very_simple_user_interface_and_contents_can_easily_understood_by_user">This App helps to Understand , Learn and To Solve Java Programs , Patterns Programs. It Contains topic-wise Core Java and its Programs. This App has a very Simple User Interface and Contents can easily Understood by User.</string>
+    <string name="developed_and_directed_by_harvinder_singh">Developed And Directed By Harvinder Singh (Computer Science Teacher)</string>
+    <string name="aboutappimage">imageabout</string>
+    <string name="factors_of_a_number">Factors Of A Number</string>
+    <string name="prime_numbers">Prime Numbers</string>
+    <string name="list_of_prime_numbers">List Of Prime Numbers</string>
+    <string name="prime_factors">Prime Factors</string>
+    <string name="sum_of_the_digit">Sum Of The Digit</string>
+    <string name="palindrome_numbers">Palindrome Numbers</string>
+    <string name="prime_palindrome_numbers">Prime Palindrome Numbers</string>
+    <string name="magical_numbers">Magical Numbers</string>
+    <string name="armstrong_numbers">Armstrong Numbers</string>
+    <string name="armstrong_numbers_between_100_and_999">Armstrong Numbers Between 100 and 999</string>
+    <string name="automorphic_number">Automorphic Number</string>
+    <string name="pattern_program_1">Pattern Program 1</string>
+    <string name="pattern_program_2">Pattern Program 2</string>
+    <string name="pattern_program_3">Pattern Program 3</string>
+    <string name="pattern_program_4">Pattern Program 4</string>
+    <string name="pattern_program_5">Pattern Program 5</string>
+    <string name="pattern_program_6">Pattern Program 6</string>
+    <string name="pattern_program_7">Pattern Program 7</string>
+    <string name="pattern_program_8">Pattern Program 8</string>
+    <string name="pattern_program_9">Pattern Program 9</string>
+    <string name="pattern_program_10">Pattern Program 10</string>
+    <string name="pattern_program_11">Pattern Program 11</string>
+    <string name="admob_app_id">ca-app-pub-8940874631730281~4622425032</string>
+    <string name="admob_banner_id">ca-app-pub-8940874631730281/9480355268</string>
+    <string name="admob_banner_id2">ca-app-pub-8940874631730281/2492560494</string>
+    <string name="admob_banner_id3">ca-app-pub-8940874631730281/8563595505</string>
+    <string name="admob_banner_id4">ca-app-pub-8940874631730281/3515089436</string>
+    <string name="admob_banner_id5">ca-app-pub-8940874631730281/2015881917</string>
+    <string name="admob_banner_id6">ca-app-pub-8940874631730281/9319656864</string>
+    <string name="admob_banner_id7">ca-app-pub-8940874631730281/4438579862</string>
+    <string name="admob_banner_id8">ca-app-pub-8940874631730281/5640323778</string>
+    <string name="ascii_code">ASCII Code</string>
+    <string name="title_activity_splash_screen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="visibility_modes">Visibility Modes</string>
+    <string name="literals" />
+    <string name="output1">Output</string>
+    <string name="output2">Output</string>
+    <string name="contact_form">Contact Us</string>
+
+
+    <string name="contact_form_name">Your Name</string>
+
+
+    <string name="contact_form_email">Your Email</string>
+
+
+    <string name="contact_form_subject">Subject</string>
+
+
+    <string name="contact_form_message">Message</string>
+
+
+    <string name="contact_form_button">Send Message</string>
+
+
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+
+
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+
+</resources>

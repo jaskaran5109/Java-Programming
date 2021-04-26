@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:background="#000000">
+
+    <ImageView
+        android:id="@+id/logo_id"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/splash2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo_id"
+        android:id="@+id/text_id"
+        android:layout_centerHorizontal="true"
+        android:text="Java Programming"
+        android:textSize="35dp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:textColor="#FFFFFF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo_id"
+        android:id="@+id/text_id2"
+        android:layout_centerHorizontal="true"
+        android:text="Ready To Learn"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:textColor="#FFFFFF"/>
+
+</RelativeLayout>
